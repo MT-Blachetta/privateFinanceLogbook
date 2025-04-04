@@ -58,23 +58,6 @@ The API is built using Python with the high-performance FastAPI framework and le
 * **Server:** [Uvicorn](https://www.uvicorn.org/)
 * **Containerization (Recommended):** [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)
 
-## Project Structure
-
-Okay, here is a comprehensive README.md file for your PFM backend project. It includes an overview, setup instructions, API documentation pointers, and a basic usage guide focusing on the currently implemented features.
-
-Markdown
-
-# Personal Finance Manager (PFM) Backend API
-
-[![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Framework-FastAPI-green.svg)](https://fastapi.tiangolo.com/)
-[![Database](https://img.shields.io/badge/Database-PostgreSQL-blue.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE) ## Overview
-
-This project provides the backend API for a modern Personal Finance Management (PFM) application. It's designed to handle data related to income, expenses, categorization, recipients, and associated documents, serving as the central data hub for potential web and mobile (Android) frontends.
-
-The API is built using Python with the high-performance FastAPI framework and leverages PostgreSQL for robust data storage. It aims to provide a clean, well-documented, and efficient interface for managing personal financial data.
-
 ## Features
 
 ### Core Functionality (Implemented & Planned)
