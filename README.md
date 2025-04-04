@@ -1,7 +1,5 @@
-# privateFinanceLogbook
- The Backend Component of a simple App to control private expenses and incomes
  
-# Personal Finance Manager (PFM) Backend API
+# Personal Finance Logbook (PFM) Backend API
 
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-FastAPI-green.svg)](https://fastapi.tiangolo.com/)
