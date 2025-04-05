@@ -1,4 +1,3 @@
-# app/schemas/user.py
 from pydantic import BaseModel, EmailStr, Field
 from typing import Optional
 import uuid
